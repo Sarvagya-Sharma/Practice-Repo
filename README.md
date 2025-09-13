@@ -4,4 +4,6 @@ A practice repository for practising the Git commands
 <ol>
 <li>Testing git commit through the local terminal</li>
 </ol>
+<br>
+<br>
 Author : Sarvagya Sharma
